@@ -1,3 +1,7 @@
+#Description
+
+Another To do app but this time with the help of firebase config. realtime interaction was possible. It was a fun process in making this app and makes deployment a breeze which you will will greatly enjoy. Also haven't really added any styles.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

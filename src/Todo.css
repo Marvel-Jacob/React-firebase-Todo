@@ -1,0 +1,27 @@
+.todo_list {
+  border: 1px solid black;
+}
+
+.model_card {
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  width: 50%;
+  border-radius: 10px;
+  position: relative;
+}
+
+input {
+  border-style: none;
+  border-bottom-color: grey;
+}
+
+.model_button {
+  padding: 4px;
+  margin: 10px 5px;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: #aed067;
+}
